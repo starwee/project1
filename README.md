@@ -1,4 +1,4 @@
-# project1
+# project1 --- vue2 heima smart market web project
 
 ## Project setup
 ```
